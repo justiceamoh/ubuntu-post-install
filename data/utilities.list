@@ -14,5 +14,6 @@ software-properties-common
 ssh
 symlinks
 synaptic
+vim-nox
 virtualbox
 zsync
